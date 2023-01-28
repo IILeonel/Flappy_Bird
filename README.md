@@ -14,6 +14,7 @@ No arquivo IA.txt temos as configurações do <a href="https://neat-python.readt
 
 # Algumas observações
 * Geração: O aprendizado será por gerações, ou seja, cada vez que a rede neural não consegue passar pelos obstaculos e acabando morrendo, foi uma geração.
-* População de passaros: Começamos com uma população de 100 passaros, porem, por ser uma rede neural pequena, a mesma estava aprendendo muito rapido,   então, optamos por utilizar uma população de apenas 5 passaros. 
+* População de passaros: Começamos com uma população de 100 passaros, porem, por ser uma rede neural pequena, a mesma estava aprendendo muito rapido,   então, optamos por utilizar uma população de apenas 5 passaros.
 
-
+# Relatorio
+Para sabermos como a nossa rede neural esta indo, colocamos um reporte por gerações:
