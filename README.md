@@ -2,6 +2,8 @@
 Ahh! Flappy Bird... Quem não passou horas de nervoso jogando este jogo.
 O jogo foi um sucesso em 2014, 2015 e deixou muita gente estressada, mas ja pensou como seria uma rede neural jogando? Bom, foi o que fizemos.
 
+
+
 # Projeto
 O projeto consiste basicamente em colocar uma rede neural para jogar Flappy Bird. 
 Utilizamos algumas bibliotecas para isso:
