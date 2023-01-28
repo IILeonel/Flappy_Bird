@@ -18,3 +18,5 @@ No arquivo IA.txt temos as configurações do <a href="https://neat-python.readt
 
 # Relatorio
 Para sabermos como a nossa rede neural esta indo, colocamos um reporte por gerações:
+![Captura de tela de 2023-01-27 16-08-16](https://user-images.githubusercontent.com/61874620/215272290-93e86959-30ac-41e4-b8f2-fead6a770ab3.png)
+
