@@ -1,6 +1,6 @@
 # Flappy Bird
 Ahh! Flappy Bird... Quem não passou horas de nervoso jogando este jogo.
-O jogo foi um sucesso em 2014, 2015 e deixou muita gente estressada, mas ja pensou como seria uma rede neural jogando? Bom, foi o que fizemos.
+O jogo foi um sucesso em 2014, 2015 e deixou muita gente estressada e feliz se divertindo com este passarinho. Mas ja pensou como seria uma rede neural jogando? Bom, foi o que fizemos.
 
 
 # Projeto
